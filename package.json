@@ -1,0 +1,16 @@
+{
+  "name": "@logicnudge/javascript-visual-explainers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ten dependency-free JavaScript lessons accompanying Logic Nudge Shorts.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node scripts/check.mjs",
+    "demos": "node scripts/run-all.mjs",
+    "verify": "npm run check && npm test && npm run demos"
+  }
+}

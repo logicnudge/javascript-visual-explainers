@@ -1,0 +1,115 @@
+[
+  {
+    "number": 1,
+    "slug": "01-floating-point",
+    "title": "Why 0.1 + 0.2 Is Not Exactly 0.3",
+    "youtube": "https://www.youtube.com/shorts/nE2khVtqj1M",
+    "output": [
+      "0.30000000000000004",
+      "false",
+      "true",
+      "0.3"
+    ]
+  },
+  {
+    "number": 2,
+    "slug": "02-event-loop",
+    "title": "Why JavaScript Prints 1, 3, 2",
+    "youtube": "https://www.youtube.com/shorts/7a7VNG8n54g",
+    "output": [
+      "1",
+      "3",
+      "2"
+    ]
+  },
+  {
+    "number": 3,
+    "slug": "03-promise-microtasks",
+    "title": "Why a Promise Runs Before setTimeout(0)",
+    "youtube": "https://www.youtube.com/shorts/mQD_s2jrCt0",
+    "output": [
+      "start",
+      "end",
+      "promise",
+      "timer"
+    ]
+  },
+  {
+    "number": 4,
+    "slug": "04-closures",
+    "title": "How Closures Remember Variables",
+    "youtube": "https://www.youtube.com/shorts/7nz-mndOOEM",
+    "output": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "number": 5,
+    "slug": "05-debounce-throttle",
+    "title": "Debouncing vs Throttling",
+    "youtube": "https://www.youtube.com/shorts/Q4lU5TNQRT0",
+    "output": [
+      "8 keystrokes -> 1 search request",
+      "10 scrolls -> 3 handler runs"
+    ]
+  },
+  {
+    "number": 6,
+    "slug": "06-array-methods",
+    "title": "map vs filter vs reduce",
+    "youtube": "https://www.youtube.com/shorts/EAPt36cUTas",
+    "output": [
+      "[2,4,6,8]",
+      "[2,4]",
+      "10"
+    ]
+  },
+  {
+    "number": 7,
+    "slug": "07-async-await",
+    "title": "Does await Freeze JavaScript?",
+    "youtube": "https://www.youtube.com/shorts/RtcGbRTGS_w",
+    "output": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ]
+  },
+  {
+    "number": 8,
+    "slug": "08-this-binding",
+    "title": "Why JavaScript this Changes",
+    "youtube": "https://www.youtube.com/shorts/bsw1N-3FVy8",
+    "output": [
+      "Alex",
+      "undefined",
+      "Alex"
+    ]
+  },
+  {
+    "number": 9,
+    "slug": "09-hoisting-tdz",
+    "title": "Why var Works but let Throws",
+    "youtube": "https://www.youtube.com/shorts/wgUcjF7LqhE",
+    "output": [
+      "undefined",
+      "10",
+      "ReferenceError"
+    ]
+  },
+  {
+    "number": 10,
+    "slug": "10-object-references",
+    "title": "Why Changing One Object Affects Another",
+    "youtube": "https://www.youtube.com/shorts/LhOcmbUolHg",
+    "output": [
+      "99",
+      "99",
+      "7",
+      "99",
+      "2"
+    ]
+  }
+]
